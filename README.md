@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aren@sinngae
+- 👋 Hi, I’m Areno@sinngae
 - 👀 I’m interested in backend developing
 - 🌱 I’m currently learning Go
 - 💞️ I’m looking to collaborate on developing a test-easy go framework
